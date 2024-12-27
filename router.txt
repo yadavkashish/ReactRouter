@@ -1,0 +1,6 @@
+link tag is used in place of <a >tag as <a> tag refreashes the whole  page again 
+in link in place of href "to is written"
+
+
+why we used callback function in navlink?
+we did so to easily check  which part is active every time when the element of hearder are clicked  function get call back and  active class changes also the color of element being active changes
